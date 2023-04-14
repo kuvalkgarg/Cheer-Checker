@@ -1,1 +1,1 @@
-# Happy-vs-Sad-Image-Classifier
+# Happy vs Sad Image Classifier
