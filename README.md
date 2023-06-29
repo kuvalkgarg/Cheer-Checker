@@ -31,7 +31,10 @@ pip install tensorflow opencv-python matplotlib
 
 # Snapshots
 ## Model Classifying a Sample Image
-![Screenshot of the model classifying an image](image_classification.png)
+![Screenshot of the model classifying an image](model_prediction.png)
+
+## Loss and Validation Loss Graph During Model Training
+![Image of the loss and validation loss while training](loss_graph.png)
 
 # Conclusion
 This project demonstrates the use of Convolutional Neural Networks (CNNs) for classifying happy and sad images. By training the model on a dataset of happy and sad images, it learns to recognize the visual patterns associated with each emotion. The trained model achieves high accuracy in distinguishing between happy and sad images. Feel free to explore and modify the project to suit your needs.
